@@ -1,9 +1,10 @@
-// ----------------------------------------------------------------------
+// ----------------------------------------------------------------------------
 // Written by: Nuo Jie (Miguel) Cheng, Concordia University, Montreal, QC
 // COMP249
 // Assignment #3
 // Date: March 16, 2018
-// ----------------------------------------------------------------------
+// LinkedIn Profile: https://www.linkedin.com/in/nuo-jie-miguel-cheng-3aa16569/
+// ----------------------------------------------------------------------------
 
 package comp249;
 
@@ -45,7 +46,7 @@ public class BibCreator
 		{
 			try
 			{
-				inputFile[i] = new Scanner(new FileInputStream("C:\\Users\\cheng\\Documents\\Concordia\\COMP249\\a3\\Latex" + (i + 1) + ".bib"));
+				inputFile[i] = new Scanner(new FileInputStream("Latex" + (i + 1) + ".bib")); //can change directory address
 			}
 
 			catch (FileNotFoundException e)
