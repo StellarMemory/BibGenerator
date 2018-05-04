@@ -1,7 +1,6 @@
 // ----------------------------------------------------------------------------
 // Written by: Nuo Jie (Miguel) Cheng, Concordia University, Montreal, QC
 // COMP249
-// Assignment #3
 // Date: March 16, 2018
 // LinkedIn Profile: https://www.linkedin.com/in/nuo-jie-miguel-cheng-3aa16569/
 // ----------------------------------------------------------------------------
